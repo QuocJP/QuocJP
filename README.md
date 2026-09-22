@@ -15,8 +15,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=QuocJP&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=QuocJP&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🌤️ Thời tiết tại Quy Nhơn hôm nay
-
-<p align="center">
-  <img src="https://wttr.in/QuyNhon_lang=vi_0.png?F" alt="Quy Nhon Weather Forecast">
-</p>

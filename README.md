@@ -15,8 +15,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=QuocJP&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=QuocJP&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🌤️ Today's Weather Forecast in Quy Nhon
-
-Quy Nhon, Vietnam
-
-<img src="https://wttr.in/QuyNhon_lang=vi.png" alt="Weather Forecast Table">

@@ -17,3 +17,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=QuocJP&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🌤️ Thời tiết tại Quy Nhơn hiện tại
+[![Weather at Quy Nhon](https://wttr.in/QuyNhon_lang=vi_m.png?F&q)](https://wttr.in/QuyNhon)
